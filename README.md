@@ -1,0 +1,1 @@
+This is Nickolai's first git project!
